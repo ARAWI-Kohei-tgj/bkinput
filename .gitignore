@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/bkinput
+bkinput.so
+bkinput.dylib
+bkinput.dll
+bkinput.a
+bkinput.lib
+bkinput-test-*
+*.exe
+*.o
+*.obj
+*.lst
